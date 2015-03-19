@@ -1,0 +1,24 @@
+New calendar events report
+When I click on an existing appointment I cannot edit any of the info in there
+Can we have an all-day option when creating an appointment please?
+When clicking on a date in the select calendar it reverses the date format on the visible calendars
+How do I create a multi-day appointment please? I.e. one of the Studio may be booked for several days on a single project with the same engineer
+When you drag an appointment to half an hour it displays the HTML
+Can the grey portion at the bottom of the page be smaller please
+
+DONE - Remove method for event - drop into bin ?
+DONE - Loading screen
+DONE - Use the full width of screen
+DONE - Skin using examples sent
+DONE - Show more details on boxes
+DONE - Datetime input box for crud
+DONE - Audit looks app to look at table
+DONE - Updates to write to audit logs
+DONE - Audit logs table
+DONE - New management screen for calendar events
+DONE - Session capture of displayed calendars
+DONE - New DB table to store session data
+DONE - Change alerts to dialogs
+DONE - Is it possible to have a way to switch between all the Audio Studios and all the Video Studios with one click?
+
+
